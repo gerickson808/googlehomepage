@@ -1,0 +1,82 @@
+
+#searchform {
+	display:block;
+	margin:auto;
+	margin-top:2em;
+	width: 30em;
+}
+
+#hplogo {
+	display:block;
+	margin:auto;
+
+
+}
+
+button{
+
+	margin-top:1em;
+	margin-bottom:1em;
+	margin-left:auto;
+	margin-right:auto;
+
+}
+
+/*.apps{
+	background-image:url('//ssl.gstatic.com/gb/images/i1_71651352.png');
+	background-position: -326px -52px;
+  	opacity: .55;
+}
+
+.notifications{
+	background-position: -214px -117px;
+	background-image:url('//ssl.gstatic.com/gb/images/i1_71651352.png');
+}
+
+.account{
+	background-image:url(//lh5.googleusercontent.com/-FPGN9NVfkuA/AAAAAAAAAAI/AAAAAAAAAAA/JggcM-PLfSI/s32-c/photo.jpg);
+
+}*/
+body{
+	font-family:sans-serif;
+	font-size:12px;
+}
+a{
+	width:8em;
+	text-decoration:none;
+	color:#404040;
+
+}
+a:hover{
+	text-decoration:underline;
+}
+.navButton{
+	display:inline-block;
+	min-width:1em;
+	max-width:15em;
+	margin:0.5em;
+	height:3em;
+	color: #404040;
+  	text-decoration: none;
+  	vertical-align:top;
+  	line-height:3em;
+}
+.navButton img{
+	max-height:3em;
+	max-width:3em;
+	margin:auto;
+}
+#noprof{
+	border-radius:20px;
+}
+#navbar{
+	width:100%;
+	position:absolute;
+	text-align:right;
+	top:10px;
+	right:0px;
+}
+
+.highlight{
+	background-color:yellow;
+}
